@@ -17,4 +17,21 @@ Basic knowledge:
 *	JavaScript
 *	Git & GitHub
 *	Figma
+## Latest code example
 
+## Experience
+Tutor in Mathematics and Computer Science (over 3 years)
+
+## Education
+*	 **Perm State Humanitarian Pedagogical University**  
+Faculty of Mathematics, profile of mathematics and computer science, 2016-2020.    
+  
+*Сourses:*  
+*	Glo Academy
+*	HTML & CSS basic courses in HTMLAcademy  
+  
+*Learning in progress:*  
+*	Manual learn.javascript.ru
+
+## English
+A1 (in the process of studying)
